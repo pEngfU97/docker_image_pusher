@@ -4,4 +4,4 @@
 # wangshuai09/ubuntu-cann7.0.0-torch21-py310-stable_diffusion:latest
 
 
-vllm/vllm-openai:latest
+justsong/one-api
