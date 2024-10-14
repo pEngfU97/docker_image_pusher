@@ -5,5 +5,5 @@
 
 # nvidia/cuda:12.3.1-devel-ubuntu20.04
 # nvidia/cuda:11.7.1-runtime-ubuntu20.04
-nvidia/cuda:11.7.1-devel-ubuntu20.04
-
+# nvidia/cuda:11.7.1-devel-ubuntu20.04
+ollama/ollama:latest
