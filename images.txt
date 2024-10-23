@@ -10,3 +10,4 @@
 # langgenius/dify-web:0.8.2
 opensearchproject/opensearch-dashboards:latest
 xprobe/xinference
+nginx
