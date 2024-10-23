@@ -8,6 +8,6 @@
 # nvidia/cuda:11.7.1-devel-ubuntu20.04
 # ollama/ollama:latest
 # langgenius/dify-web:0.8.2
-opensearchproject/opensearch-dashboards:latest
-xprobe/xinference
+# opensearchproject/opensearch-dashboards:latest
+# xprobe/xinference
 nginx
